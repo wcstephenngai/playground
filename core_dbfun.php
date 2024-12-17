@@ -11,10 +11,10 @@ use PHPMailer\PHPMailer\Exception;
 class databasefun
 {
 
-    private $servername = "localhost:3306";
-    private $username = "uathemmafabuser";
-    private $password = "n2~4tx20L";
-    private $dbname = 'uathemmafab';
+    private $servername = "x";
+    private $username = "x";
+    private $password = "x";
+    private $dbname = 'x';
 
     /*private $servername = "10.100.5.140:3306";
     private $username = "kadooria";
