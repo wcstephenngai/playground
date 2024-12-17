@@ -11,7 +11,7 @@ use PHPMailer\PHPMailer\Exception;
 class databasefun
 {
 
-    private $servername = "localhost:3306";
+    private $servername = "a";
     private $username = "uathemmafabuser";
     private $password = "n2~4tx20L";
     private $dbname = 'uathemmafab';
